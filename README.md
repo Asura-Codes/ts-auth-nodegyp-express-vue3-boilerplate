@@ -10,9 +10,9 @@ Originally software written for CM4 (Compute Module 4) for monitoring and contro
 
 ## Build and run
 
-+ [```/Client/README.md```](https://github.com/Asura-Codes/ts-auth-nodegyp-express-vue3-boilerplate/Client)
-+ [```/Server/README.md```](https://github.com/Asura-Codes/ts-auth-nodegyp-express-vue3-boilerplate/Server)
-+ [```/Server/addon/README.md```](https://github.com/Asura-Codes/ts-auth-nodegyp-express-vue3-boilerplate/Server/addon)
++ [```/Client/README.md```](https://github.com/Asura-Codes/ts-auth-nodegyp-express-vue3-boilerplate/tree/main/Client)
++ [```/Server/README.md```](https://github.com/Asura-Codes/ts-auth-nodegyp-express-vue3-boilerplate/tree/main/Server)
++ [```/Server/addon/README.md```](https://github.com/Asura-Codes/ts-auth-nodegyp-express-vue3-boilerplate/tree/main/Server/addon)
 
 ### Comments
 
